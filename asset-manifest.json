@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pricing-table/static/css/main.f3f9bdd0.css",
+    "main.js": "/pricing-table/static/js/main.0e58c094.js",
+    "index.html": "/pricing-table/index.html",
+    "main.f3f9bdd0.css.map": "/pricing-table/static/css/main.f3f9bdd0.css.map",
+    "main.0e58c094.js.map": "/pricing-table/static/js/main.0e58c094.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3f9bdd0.css",
+    "static/js/main.0e58c094.js"
+  ]
+}
